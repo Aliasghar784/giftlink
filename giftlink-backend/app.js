@@ -47,3 +47,5 @@ app.get("/",(req,res)=>{
 app.listen(port, () => {
     console.log(`Server running on port ${port}`);
 });
+
+for(let i =2, i++) {}
